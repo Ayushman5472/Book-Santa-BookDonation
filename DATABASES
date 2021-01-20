@@ -1,0 +1,11 @@
+Donations:
+BookName, DonorID, RequestID, RequestStatus, RequestedBy
+
+Notifications:
+BookName, Date, DonorID, Message, NotificationStatus, RecieverUserID, RequestID
+
+Request:
+book_name, reason_to_request, request_id, user_id
+
+UserDetails:
+address, contact, email_id, first_name, last_name
